@@ -1,5 +1,5 @@
 streamlit==0.60.0
-sklearn
+sklearn==0.22.2.post1
 pandas
 numpy
 joblib
